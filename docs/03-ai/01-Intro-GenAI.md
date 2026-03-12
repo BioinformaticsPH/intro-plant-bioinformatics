@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3.1 Prompt Engineering
+title: 3.1 Introduction to Generative AI
 parent: 3. AI
 nav_order: 1
 ---
