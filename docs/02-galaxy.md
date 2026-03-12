@@ -16,9 +16,9 @@ The **Galaxy Workbench** is an open-source, web-based platform designed to make 
 * **Toolbox**: It hosts thousands of integrated tools for transcriptomics (RNA-Seq), metagenomics, and proteomics, all accessible through a simple point-and-click system.
 
 ## Galaxy Mirrors:
-* <a href="https://usegalaxy.org/" target="_blank" rel="noopener noreferrer">Galaxy US</a>
-* <a href="https://usegalaxy.org.au/" target="_blank" rel="noopener noreferrer">Galaxy Australia</a>
-* <a href="https://usegalaxy.eu/" target="_blank" rel="noopener noreferrer">Galaxy Europe</a>
+* <a href="https://usegalaxy.org/" target="_blank">Galaxy US</a>
+* <a href="https://usegalaxy.org.au/" target="_blank">Galaxy Australia</a>
+* <a href="https://usegalaxy.eu/" target="_blank">Galaxy Europe</a>
 
 ## Key Topics
 * Introduction to Galaxy Workbench
