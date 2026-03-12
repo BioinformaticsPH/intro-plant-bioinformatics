@@ -7,4 +7,8 @@ permalink: /modules/
 ---
 
 # Modules
-Select a topic below to begin.
+This curriculum is structured into daily modules, with each day dedicated to mastering a specific core competency.
+* Ensembl
+* Galaxy Workbench
+* Generative AI
+* Integration
