@@ -12,5 +12,6 @@ permalink: /docs/ai
 This module covers the application of AI in bioinformatics.
 
 ## Submodules
-* **RAG (Retrieval-Augmented Generation)**
+
 * **Prompt Engineering**
+* **RAG (Retrieval-Augmented Generation)**
