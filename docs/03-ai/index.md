@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3. AI
+title: 3. Generative AI
 parent: Modules
 nav_order: 3
 has_children: true
