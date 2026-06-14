@@ -126,7 +126,7 @@ permalink: /schedule/
       <td>10:30 - 12:00</td>
       <td><strong>Hands-on: Galaxy Basics</strong></td>
       <td>Exploring and navigating the Galaxy Workbench</td>
-      <td>Lord Hendrix Barboza</td>
+      <td>Riza May Pasco</td>
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">12:00 - 13:00</td>
@@ -161,10 +161,16 @@ permalink: /schedule/
       </td>
     </tr>
     <tr>
+      <td>08:30 - 09:00</td>
+      <td>Review and Q & A</td>
+      <td>Day 2 Review</td>
+      <td>Training Team</td>
+    </tr>
+    <tr>
       <td>09:00 - 09:45</td>
       <td>Lecture: Introduction to AI and Prompt Engineering</td>
-      <td>Capabilities & limits</td>
-      <td>Lead Instructor</td>
+      <td>Concepts of AI and Applications of Prompt Engineering</td>
+      <td>Jeffrey Detras</td>
     </tr>
     <tr>
       <td>09:45 - 10:30</td>
@@ -173,22 +179,52 @@ permalink: /schedule/
       <td>Jeffrey Detras + Assistants</td>
     </tr>
     <tr>
-      <td>10:45 - 12:15</td>
-      <td><strong>Hands-on: AI for Galaxy</strong></td>
-      <td>Galaxy LLM Hub</td>
-      <td>Riza May Pasco + Assistants</td>
+      <td style="color: #666; font-style: italic;">10:30 - 10:45</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
-      <td>13:15 - 14:30</td>
-      <td>Hands-on: AI Challenge</td>
-      <td>Scenario design</td>
-      <td>Groups + Assistants</td>
+      <td>10:45 - 11:15</td>
+      <td><strong>Lecture: Retrieval Augmented Generation</strong></td>
+      <td>Identifying hallucinations and using RAG to fix it</td>
+      <td>Lord Hendrix Barboza</td>
+    </tr>
+    <tr>
+      <td>11:15 - 12:00</td>
+      <td><strong>Hands-on: RAG using NotebookLM</strong></td>
+      <td>NotebookLM as a RAG tool</td>
+      <td>Lord Hendrix Barboza + Assistants</td>
+    </tr>
+    <tr>
+      <td style="color: #666; font-style: italic;">12:00 - 13:00</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
+    </tr>
+    <tr>
+      <td>13:00 - 14:30</td>
+      <td>Hands-on: AI for Galaxy</td>
+      <td>Use AI as reference or interpretation of Data; trobleshoot; LLM hub in galaxy</td>
+      <td>Riza May Pasco + Assistants</td>
     </tr>
     <tr>
       <td>14:30 - 15:45</td>
       <td>Group Presentations</td>
       <td>5 min + 2 min Q&A each</td>
       <td>All</td>
+    </tr>
+    <tr>
+      <td style="color: #666; font-style: italic;">15:45 - 16:00</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
+    </tr>
+    <tr>
+      <td>14:00 - 16:45</td>
+      <td>AI Challenge</td>
+      <td>5 min + 2 min Q&A each</td>
+      <td>All</td>
+    </tr>
+    <tr>
+      <td>16:45 - 17:00</td>
+      <td>Day 3 Wrap-up</td>
+      <td>AI as complement</td>
+      <td>Jeffrey Detras</td>
     </tr>
 
     <tr style="background-color: #eaf5ec;">
@@ -210,37 +246,37 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>09:45 - 10:30</td>
-      <td><strong>Project Phases 1</strong></td>
+      <td>Project Phases 1</td>
       <td>Ensembl Discovery</td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
       <td>10:30 - 10:45</td>
-      <td><strong>Coffee Break</strong></td>
+      <td>Coffee Break</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>10:45 - 12:00</td>
-      <td><strong>Project Phases 2</strong></td>
+      <td>Project Phases 2</td>
       <td>Galaxy</td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
       <td>10:30 - 12:00</td>
-      <td><strong>Lunch Break</strong></td>
+      <td>Lunch Break</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>13:00 - 14:00</td>
-      <td><strong>Project Phases 3</strong></td>
+      <td>Project Phases 3</td>
       <td>Galaxy</td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
       <td>14:00 - 14:15</td>
-      <td><strong>Project Phases 3</strong></td>
+      <td>Project Phases 3</td>
       <td>Galaxy</td>
       <td>Groups + Resource Persons</td>
     </tr>
