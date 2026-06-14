@@ -7,7 +7,7 @@ permalink: /forum/
 
 # Q&A Forum
 
-We use GitHub Issues for our class discussions. 
+We use GitHub Issues for our class discussions. If you do not have one yet, please create one following the instructions here: [Creating an account on Github](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
 [👉 **Click here to ask a question**](https://github.com/IRRI-Bioinformatics-Official/intro-plant-bioinformatics/issues/new)
 
