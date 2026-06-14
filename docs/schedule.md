@@ -31,7 +31,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 1: Tuesday, May 5 — Ensembl & Data Mining
+        DAY 1: Tuesday, May 5 — Ensembl 
       </td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 2: Wednesday, May 6 — Batch Ops & Galaxy
+        DAY 2: Wednesday, May 6 — Galaxy Workbench
       </td>
     </tr>
     <tr>
@@ -135,7 +135,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 3: Thursday, May 7 — AI Assistants in Bioinformatics
+        DAY 3: Thursday, May 7 — AI 
       </td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 4: Friday, May 8 — Capstone Pipeline Project
+        DAY 4: Friday, May 8 — Integration
       </td>
     </tr>
     <tr>
