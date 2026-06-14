@@ -1,3 +1,10 @@
+---
+layout: default
+title: Glossary
+nav_order: 8
+permalink: /glossary/
+---
+
 # Glossary: Ensembl, Galaxy, AI, Prompt Engineering & RAG
 
 A reference glossary spanning genome resources, workflow platforms, and the
