@@ -25,5 +25,5 @@ The training is hosted by SEARCA.
 | :--- | :--- | :--- |
 | **Nova Ramos** | Head, Training for Development Unit | SEARCA |
 | **Sonny Pasiona** | Program Specialist, Training for Development Unit | SEARCA |
-| **Stoix Nebin Pascua** | Head - Training for Development Unit | SEARCA |
-| **Rachelle Anne Mangaya** | Head - Training for Development Unit | SEARCA |
+| **Stoix Nebin Pascua** |  | SEARCA |
+| **Rachelle Anne Mangaya** |  | SEARCA |
