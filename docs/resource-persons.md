@@ -6,7 +6,7 @@ permalink: /resource-persons/
 ---
 
 # Resource Persons
-The following experts will be facilitating the Plant Bioinformatics training.
+The following will be facilitating the Plant Bioinformatics training.
 
 | Name | Title | Affiliation |
 | :--- | :--- | :--- |
@@ -17,3 +17,13 @@ The following experts will be facilitating the Plant Bioinformatics training.
 | **Frances Nikki Borja** | Junior Specialist - Bioinformatics | CIMMYT |
 | **Jeffrey Detras** | Senior Specialist - Bioinformatics | IRRI |
 | **Riza May Pasco** | Junior Specialist - Bioinformatics | IRRI |
+
+# Host Institution
+The training is hosted by SEARCA. 
+
+| Name | Title | Affiliation |
+| :--- | :--- | :--- |
+| **Nova Ramos** | Head, Training for Development Unit | SEARCA |
+| **Sonny Pasiona** | Program Specialist, Training for Development Unit | SEARCA |
+| **Stoix Nebin Pascua** | Head - Training for Development Unit | SEARCA |
+| **Rachelle Anne Mangaya** | Head - Training for Development Unit | SEARCA |
