@@ -287,6 +287,7 @@ permalink: /schedule/
       <td>Closing Program</td>
       <td>Certificate Distribution, Networking</td>
       <td>Organizers</td>
-    </tr>
+<!--    </tr>
    </tbody>
  </table>
+-->
