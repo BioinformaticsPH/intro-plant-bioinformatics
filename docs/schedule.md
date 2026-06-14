@@ -119,27 +119,39 @@ permalink: /schedule/
       <td>Riza May Pasco</td>
     </tr>
     <tr>
+      <td style="color: #666; font-style: italic;">10:15 - 10:30</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
+    </tr>
+    <tr>
       <td>10:30 - 12:00</td>
-      <td><strong>Galaxy Deployment on AWS</strong></td>
-      <td>Hands-on Demo</td>
+      <td><strong>Hands-on: Galaxy Basics</strong></td>
+      <td>Exploring and navigating the Galaxy Workbench</td>
       <td>Lord Hendrix Barboza</td>
     </tr>
     <tr>
-      <td>13:00 - 13:45</td>
+      <td style="color: #666; font-style: italic;">12:00 - 13:00</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
+    </tr>
+    <tr>
+      <td>13:00 - 15:15</td>
       <td>Lecture: Sequence Characterization</td>
       <td>Concepts</td>
       <td>Frances Nikki Borja</td>
     </tr>
     <tr>
-      <td>13:45 - 15:15</td>
-      <td><strong>Hands-on: Sequence Characterization using Galaxy</strong></td>
-      <td>Exercise 4-7</td>
-      <td>Nikki + Assistants</td>
+      <td style="color: #666; font-style: italic;">15:15 - 15:30</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
     </tr>
     <tr>
       <td>15:30 - 16:45</td>
       <td>Hands-on: Visualization using Galaxy</td>
-      <td>Exercise 8-10</td>
+      <td>Visualization in Galayx</td>
+      <td>Frances Nikki Borja + Assistants</td>
+    </tr>
+    <tr>
+      <td>16:45 - 17:00</td>
+      <td>Day 2 Wrap-up</td>
+      <td>Review data flow</td>
       <td>Frances Nikki Borja + Assistants</td>
     </tr>
 
