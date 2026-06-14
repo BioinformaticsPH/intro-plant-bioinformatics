@@ -212,7 +212,7 @@ permalink: /schedule/
       <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
-      <td>14:00 - 16:45</td>
+      <td>16:00 - 16:45</td>
       <td>AI Challenge</td>
       <td>5 min + 2 min Q&A each</td>
       <td>All</td>
