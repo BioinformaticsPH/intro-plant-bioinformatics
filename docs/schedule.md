@@ -64,7 +64,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>11:30 - 12:00</td>
-      <td><strong>Hands-on: Exploring Ensembl</strong></td>
+      <td>>Hands-on: Exploring Ensembl</td>
       <td>Practical: Navigating Ensembl and finding genome assembly information</td>
       <td>Louisse + Assistants</td>
     </tr>
@@ -80,7 +80,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>14:30 - 15:45</td>
-      <td><strong>Hands-on: Exporting Ensembl data</strong></td>
+      <td>Hands-on: Exporting Ensembl data</td>
       <td>Practical: Finding genomic data and associated information</td>
       <td>Louisse + Assistants</td>
     </tr>
@@ -124,7 +124,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>10:30 - 12:00</td>
-      <td><strong>Hands-on: Galaxy Basics</strong></td>
+      <td>Hands-on: Galaxy Basics</td>
       <td>Exploring and navigating the Galaxy Workbench</td>
       <td>Riza May Pasco</td>
     </tr>
@@ -174,7 +174,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>09:45 - 10:30</td>
-      <td><strong>Hands-on: Prompt Engineering</strong></td>
+      <td>Hands-on: Prompt Engineering</td>
       <td>Prompt Engineering using Gemini</td>
       <td>Jeffrey Detras + Assistants</td>
     </tr>
@@ -184,13 +184,13 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>10:45 - 11:15</td>
-      <td><strong>Lecture: Retrieval Augmented Generation</strong></td>
+      <td>Lecture: Retrieval Augmented Generation</td>
       <td>Identifying hallucinations and using RAG to fix it</td>
       <td>Lord Hendrix Barboza</td>
     </tr>
     <tr>
       <td>11:15 - 12:00</td>
-      <td><strong>Hands-on: RAG using NotebookLM</strong></td>
+      <td>>Hands-on: RAG using NotebookLM</td>
       <td>NotebookLM as a RAG tool</td>
       <td>Lord Hendrix Barboza + Assistants</td>
     </tr>
@@ -267,7 +267,7 @@ permalink: /schedule/
     <tr>
       <td>13:00 - 14:30</td>
       <td>Project Phases 3</td>
-      <td>Galaxy</td>
+      <td>AI/td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
