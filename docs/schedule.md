@@ -30,7 +30,7 @@ permalink: /schedule/
     </tr>
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 1: Tuesday, July 7 — Ensembl 
+        DAY 1: Tuesday, July 7 — Ensembl
       </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>11:30 - 12:00</td>
-      <td>>Hands-on: Exploring Ensembl</td>
+      <td>Hands-on: Exploring Ensembl</td>
       <td>Practical: Navigating Ensembl and finding genome assembly information</td>
       <td>Louisse + Assistants</td>
     </tr>
@@ -138,7 +138,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">15:15 - 15:30</td>
-      <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
       <td>15:30 - 16:45</td>
@@ -154,7 +154,7 @@ permalink: /schedule/
     </tr>
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 3: Thursday, July 9 — AI 
+        DAY 3: Thursday, July 9 — AI
       </td>
     </tr>
     <tr>
@@ -198,7 +198,7 @@ permalink: /schedule/
     <tr>
       <td>13:00 - 14:30</td>
       <td>Hands-on: AI for Galaxy</td>
-      <td>Use AI as reference or interpretation of Data; trobleshoot; LLM hub in galaxy</td>
+      <td>Use AI as reference or interpretation of Data; troubleshoot; LLM hub in galaxy</td>
       <td>Riza May Pasco + Assistants</td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ permalink: /schedule/
         DAY 4: Friday, July 10 — Integration
       </td>
     </tr>
-      <tr>
+    <tr>
       <td>08:30 - 09:00</td>
       <td>Project Team Formation</td>
       <td>Group projects</td>
@@ -263,7 +263,7 @@ permalink: /schedule/
     <tr>
       <td>13:00 - 14:30</td>
       <td>Project Phases 3</td>
-      <td>AI/td>
+      <td>AI</td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
@@ -287,7 +287,6 @@ permalink: /schedule/
       <td>Closing Program</td>
       <td>Certificate Distribution, Networking</td>
       <td>Organizers</td>
-<!--    </tr>
-   </tbody>
- </table>
--->
+    </tr>
+  </tbody>
+</table>
