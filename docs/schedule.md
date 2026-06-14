@@ -145,7 +145,7 @@ permalink: /schedule/
     <tr>
       <td>15:30 - 16:45</td>
       <td>Hands-on: Visualization using Galaxy</td>
-      <td>Visualization in Galayx</td>
+      <td>Visualization in Galaxy</td>
       <td>Frances Nikki Borja + Assistants</td>
     </tr>
     <tr>
@@ -251,10 +251,8 @@ permalink: /schedule/
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
-      <td>10:30 - 10:45</td>
-      <td>Coffee Break</td>
-      <td></td>
-      <td></td>
+      <td style="color: #666; font-style: italic;">10:30 - 10:45</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
       <td>10:45 - 12:00</td>
@@ -263,34 +261,24 @@ permalink: /schedule/
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
-      <td>10:30 - 12:00</td>
-      <td>Lunch Break</td>
-      <td></td>
-      <td></td>
+      <td style="color: #666; font-style: italic;">12:00 - 13:00</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
     </tr>
     <tr>
-      <td>13:00 - 14:00</td>
+      <td>13:00 - 14:30</td>
       <td>Project Phases 3</td>
       <td>Galaxy</td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
-      <td>14:00 - 14:15</td>
-      <td>Project Phases 3</td>
-      <td>Galaxy</td>
-      <td>Groups + Resource Persons</td>
-    </tr>
-    <tr>
-      <td>14:15 - 15:15</td>
+      <td>14:30 - 15:15</td>
       <td>Final Presentations</td>
       <td>5 min + 3 min Q&A</td>
       <td>All</td>
     </tr>
     <tr>
-      <td>15:15 - 15:30</td>
-      <td>Coffee Break</td>
-      <td></td>
-      <td></td>
+      <td style="color: #666; font-style: italic;">15:15 - 15:30</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
       <td>15:30 - 16:00</td>
