@@ -38,13 +38,13 @@ permalink: /schedule/
       <td>08:30 - 09:00</td>
       <td>Arrival & Tech Help</td>
       <td>-</td>
-      <td>Assistants</td>
+      <td>Training Team</td>
     </tr>
     <tr>
       <td>09:00 - 09:15</td>
       <td>Welcome & Overview</td>
       <td>Adjust based on diagnostic exam</td>
-      <td>Lead Instructor</td>
+      <td>Frances Nikki Borja</td>
     </tr>
     <tr>
       <td>09:15 - 10:00</td>
@@ -119,26 +119,26 @@ Galaxy is a web-based computational workbench that analyze datasets through acce
     <tr>
       <td>10:30 - 12:00</td>
       <td><strong>Galaxy Deployment on AWS</strong></td>
-      <td>Exercise 1-3</td>
+      <td>Hands-on Demo</td>
       <td>Lord Hendrix Barboza</td>
     </tr>
     <tr>
       <td>13:00 - 13:45</td>
-      <td>Lecture: Galaxy Intro</td>
-      <td>Galaxy philosophy</td>
-      <td>Galaxy Resource Person</td>
+      <td>Lecture: Sequence Characterization</td>
+      <td>Concepts</td>
+      <td>Frances Nikki Borja</td>
     </tr>
     <tr>
       <td>13:45 - 15:15</td>
-      <td><strong>Hands-on: Galaxy</strong></td>
+      <td><strong>Hands-on: Sequence Characterization using Galaxy</strong></td>
       <td>Exercise 4-7</td>
-      <td>All + Assistants</td>
+      <td>Nikki + Assistants</td>
     </tr>
     <tr>
       <td>15:30 - 16:45</td>
-      <td>Hands-on: Integration</td>
+      <td>Hands-on: Visualization using Galaxy</td>
       <td>Exercise 8-10</td>
-      <td>All + Assistants</td>
+      <td>Frances Nikki Borja + Assistants</td>
     </tr>
 
     <tr style="background-color: #eaf5ec;">
@@ -148,21 +148,21 @@ Galaxy is a web-based computational workbench that analyze datasets through acce
     </tr>
     <tr>
       <td>09:00 - 09:45</td>
-      <td>Lecture: AI Assistant</td>
+      <td>Lecture: Introduction to AI and Prompt Engineering</td>
       <td>Capabilities & limits</td>
       <td>Lead Instructor</td>
     </tr>
     <tr>
       <td>09:45 - 10:30</td>
-      <td><strong>Hands-on: Prompt Basics</strong></td>
-      <td>Exercise 1-3</td>
-      <td>All + Assistants</td>
+      <td><strong>Hands-on: Prompt Engineering</strong></td>
+      <td>Prompt Engineering using Gemini</td>
+      <td>Jeffrey Detras + Assistants</td>
     </tr>
     <tr>
       <td>10:45 - 12:15</td>
       <td><strong>Hands-on: AI for Galaxy</strong></td>
-      <td>Exercise 4-6</td>
-      <td>All + Assistants</td>
+      <td>Galaxy LLM Hub</td>
+      <td>Riza May Pasco + Assistants</td>
     </tr>
     <tr>
       <td>13:15 - 14:30</td>
@@ -182,6 +182,12 @@ Galaxy is a web-based computational workbench that analyze datasets through acce
         DAY 4: Friday, July 10 — Integration
       </td>
     </tr>
+      <tr>
+      <td>08:30 - 09:00</td>
+      <td>Project Team Formation</td>
+      <td>Group projects</td>
+      <td>Frances Nikki Borja</td>
+    </tr>
     <tr>
       <td>09:00 - 09:45</td>
       <td>Lecture: Full Pipeline</td>
@@ -189,21 +195,63 @@ Galaxy is a web-based computational workbench that analyze datasets through acce
       <td>Lead Instructor</td>
     </tr>
     <tr>
-      <td>09:45 - 15:00</td>
-      <td><strong>Project Phases 1-3</strong></td>
-      <td>Ensembl, Galaxy, & AI Interpretation</td>
+      <td>09:45 - 10:30</td>
+      <td><strong>Project Phases 1</strong></td>
+      <td>Ensembl Discovery</td>
       <td>Groups + Resource Persons</td>
     </tr>
     <tr>
-      <td>15:00 - 16:30</td>
+      <td>10:30 - 10:45</td>
+      <td><strong>Coffee Break</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10:45 - 12:00</td>
+      <td><strong>Project Phases 2</strong></td>
+      <td>Galaxy</td>
+      <td>Groups + Resource Persons</td>
+    </tr>
+    <tr>
+      <td>10:30 - 12:00</td>
+      <td><strong>Lunch Break</strong></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13:00 - 14:00</td>
+      <td><strong>Project Phases 3</strong></td>
+      <td>Galaxy</td>
+      <td>Groups + Resource Persons</td>
+    </tr>
+    <tr>
+      <td>14:00 - 14:15</td>
+      <td><strong>Project Phases 3</strong></td>
+      <td>Galaxy</td>
+      <td>Groups + Resource Persons</td>
+    </tr>
+    <tr>
+      <td>14:15 - 15:15</td>
       <td>Final Presentations</td>
       <td>5 min + 3 min Q&A</td>
       <td>All</td>
     </tr>
     <tr>
-      <td>17:00 - 17:30</td>
-      <td>Certificate Distribution</td>
-      <td>Networking</td>
+      <td>15:15 - 15:30</td>
+      <td>Coffee Break</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15:30 - 16:00</td>
+      <td>Course Wrap-up</td>
+      <td>Resources, Careers and Feedback</td>
+      <td>Organizers</td>
+    </tr>
+    <tr>
+      <td>16:00 - 17:00</td>
+      <td>Closing Program</td>
+      <td>Certificate Distribution, Networking</td>
       <td>Organizers</td>
     </tr>
   </tbody>
