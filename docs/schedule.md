@@ -50,7 +50,7 @@ permalink: /schedule/
       <td>09:15 - 10:00</td>
       <td>Lecture 1: Bioinformatics Overview</td>
       <td>Biological datasets (generation, management)</td>
-      <td>Lead Instructor</td>
+      <td>Ramil Mauleon</td>
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">10:00 - 10:15</td>
@@ -58,15 +58,15 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>10:15 - 11:30</td>
-      <td>Lecture 2: Plant Atlas</td>
-      <td>Genome browsers intro</td>
-      <td>Lead Instructor</td>
+      <td>Lecture 2: The Ensembl Data Platform</td>
+      <td>Foundation and context, Intro to genomic resources (focusing on EMBL-EBI resources), the Ensembl project and genome assemblies, followed by an Ensembl website demonstration.</td>
+      <td>Louisse Paola Mirabueno</td>
     </tr>
     <tr>
       <td>11:30 - 12:30</td>
-      <td><strong>Hands-on: Ensembl Safari</strong></td>
-      <td>Exercise 1-3</td>
-      <td>All + Assistants</td>
+      <td><strong>Hands-on: Exploring Ensembl</strong></td>
+      <td>Practical: Navigating Ensembl and finding genome assembly information</td>
+      <td>Louisse + Assistants</td>
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">12:30 - 13:30</td>
@@ -74,21 +74,27 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>13:30 - 14:30</td>
-      <td>Lecture: Data to Biology</td>
-      <td>Interpretation skills</td>
-      <td>Lead Instructor</td>
+      <td>Lecture 3: Genomic annotation</td>
+      <td>Exploring the available genomic data in Ensembl and how to interpret them</td>
+      <td>Louisse Paola Mirabueno</td>
     </tr>
     <tr>
       <td>14:30 - 15:45</td>
-      <td><strong>Hands-on: Data Export</strong></td>
-      <td>Exercise 4-6</td>
-      <td>All + Assistants</td>
+      <td><strong>Hands-on: Exporting Ensembl data</strong></td>
+      <td>Practical: Finding genomic data and associated information</td>
+      <td>Louisse + Assistants</td>
     </tr>
     <tr>
-      <td>16:00 - 17:00</td>
+      <td>16:00 - 16:45</td>
       <td>Integrated Practice</td>
-      <td>Drought tolerance challenge</td>
-      <td>All + Assistants</td>
+      <td>Practical: Exporting sequences from Ensembl for Galaxy</td>
+      <td>Louisse + Assistants</td>
+    </tr>
+    <tr>
+      <td>16:45 - 17:00</td>
+      <td>Day 1 Wrap-up</td>
+      <td>Key takeaways</td>
+      <td>Louisse Paola Mirabueno</td>
     </tr>
 
     <tr style="background-color: #eaf5ec;">
