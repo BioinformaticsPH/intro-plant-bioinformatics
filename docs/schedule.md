@@ -19,7 +19,7 @@ permalink: /schedule/
   <tbody>
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 0: Monday, May 4 — Arrival & Setup
+        DAY 0: Monday, July 6 — Arrival & Setup
       </td>
     </tr>
     <tr>
@@ -31,7 +31,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 1: Tuesday, May 5 — Ensembl 
+        DAY 1: Tuesday, July 7 — Ensembl 
       </td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 2: Wednesday, May 6 — Galaxy Workbench
+        DAY 2: Wednesday, July 8 — Galaxy Workbench
       </td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 3: Thursday, May 7 — AI 
+        DAY 3: Thursday, July 9 — AI 
       </td>
     </tr>
     <tr>
@@ -177,7 +177,7 @@ permalink: /schedule/
 
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
-        DAY 4: Friday, May 8 — Integration
+        DAY 4: Friday, July 10 — Integration
       </td>
     </tr>
     <tr>
