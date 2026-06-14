@@ -13,7 +13,7 @@ permalink: /schedule/
       <th style="padding: 10px; text-align: left;">Time</th>
       <th style="padding: 10px; text-align: left;">Activity</th>
       <th style="padding: 10px; text-align: left;">Details</th>
-      <th style="padding: 10px; text-align: left;">Responsible</th>
+      <th style="padding: 10px; text-align: left;">Resource Person</th>
     </tr>
   </thead>
   <tbody>
@@ -28,7 +28,6 @@ permalink: /schedule/
       <td style="padding: 10px; border-bottom: 1px solid #eee;">Software verification</td>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">Tech Team</td>
     </tr>
-
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
         DAY 1: Tuesday, July 7 — Ensembl 
@@ -100,7 +99,6 @@ permalink: /schedule/
       <td>Key takeaways</td>
       <td>Louisse Paola Mirabueno</td>
     </tr>
-
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
         DAY 2: Wednesday, July 8 — Galaxy Workbench
@@ -154,7 +152,6 @@ permalink: /schedule/
       <td>Review data flow</td>
       <td>Frances Nikki Borja + Assistants</td>
     </tr>
-
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
         DAY 3: Thursday, July 9 — AI 
@@ -226,7 +223,6 @@ permalink: /schedule/
       <td>AI as complement</td>
       <td>Jeffrey Detras</td>
     </tr>
-
     <tr style="background-color: #eaf5ec;">
       <td colspan="4" style="padding: 12px; font-weight: bold; color: #166936; text-align: center;">
         DAY 4: Friday, July 10 — Integration
