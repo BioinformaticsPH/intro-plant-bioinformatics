@@ -288,5 +288,5 @@ permalink: /schedule/
       <td>Certificate Distribution, Networking</td>
       <td>Organizers</td>
     </tr>
-  </tbody>
-</table>
+   </tbody>
+ </table>
