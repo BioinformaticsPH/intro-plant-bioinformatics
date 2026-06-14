@@ -187,7 +187,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>11:15 - 12:00</td>
-      <td>>Hands-on: RAG using NotebookLM</td>
+      <td>Hands-on: RAG using NotebookLM</td>
       <td>NotebookLM as a RAG tool</td>
       <td>Lord Hendrix Barboza + Assistants</td>
     </tr>
