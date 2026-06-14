@@ -42,9 +42,9 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>09:00 - 09:15</td>
-      <td>Welcome & Overview</td>
-      <td>Adjust based on diagnostic exam</td>
-      <td>Frances Nikki Borja</td>
+      <td>Opening Program</td>
+      <td>Welcome and Overview</td>
+      <td>SEARCA emcee</td>
     </tr>
     <tr>
       <td>09:15 - 10:00</td>
@@ -63,17 +63,17 @@ permalink: /schedule/
       <td>Louisse Paola Mirabueno</td>
     </tr>
     <tr>
-      <td>11:30 - 12:30</td>
+      <td>11:30 - 12:00</td>
       <td><strong>Hands-on: Exploring Ensembl</strong></td>
       <td>Practical: Navigating Ensembl and finding genome assembly information</td>
       <td>Louisse + Assistants</td>
     </tr>
     <tr>
-      <td style="color: #666; font-style: italic;">12:30 - 13:30</td>
+      <td style="color: #666; font-style: italic;">12:00 - 13:00</td>
       <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
     </tr>
     <tr>
-      <td>13:30 - 14:30</td>
+      <td>13:00 - 14:30</td>
       <td>Lecture 3: Genomic annotation</td>
       <td>Exploring the available genomic data in Ensembl and how to interpret them</td>
       <td>Louisse Paola Mirabueno</td>
@@ -83,6 +83,10 @@ permalink: /schedule/
       <td><strong>Hands-on: Exporting Ensembl data</strong></td>
       <td>Practical: Finding genomic data and associated information</td>
       <td>Louisse + Assistants</td>
+    </tr>
+    <tr>
+      <td style="color: #666; font-style: italic;">15:45 - 16:00</td>
+      <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
       <td>16:00 - 16:45</td>
@@ -111,9 +115,7 @@ permalink: /schedule/
     <tr>
       <td>09:30 - 10:15</td>
       <td>Lecture: Introduction to Galaxy</td>
-      <td>
-1:20 PM
-Galaxy is a web-based computational workbench that analyze datasets through accessible, reproducible bioinformatics workflows without requiring command-line expertise.</td>
+      <td>Galaxy is a web-based computational workbench that analyze datasets through accessible, reproducible bioinformatics workflows without requiring command-line expertise.</td>
       <td>Riza May Pasco</td>
     </tr>
     <tr>
