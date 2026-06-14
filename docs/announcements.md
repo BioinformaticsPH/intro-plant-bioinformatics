@@ -9,7 +9,7 @@ permalink: /announcements/
 Stay updated with the latest news, schedule changes, and resource releases.
 
 ---
-
+<!--
 ### <span class="label label-green">New</span> **Module Released: AI Integration**
 *Posted: Feb 12, 2026*
 
@@ -36,3 +36,4 @@ Before we begin on Monday, please ensure you have **RStudio** and **Conda** inst
 
 {: .note }
 > **Reminder:** If you are using a university laptop, you might need IT permission to install Conda. Please check this weekend!
+-->
