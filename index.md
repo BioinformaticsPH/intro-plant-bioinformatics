@@ -36,4 +36,14 @@ The course concludes with an **Integration Workshop** where participants select 
 3. **AI in Bioinformatics:** Prompt engineering for biology and AI-driven data synthesis.
 4. **Capstone Integration:** Final project from trait discovery to gene family analysis.
 
+## Training Location
+
+Sam-Arng Room  
+SEARCA  
+College, Los Baños  
+4031 Laguna  
+Philippines   
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3868.505259875871!2d121.23760897602102!3d14.165158987587315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd60b5fc1817d9%3A0xefc959d751e59daa!2sSEARCA!5e0!3m2!1sen!2sph!4v1781425800704!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ---
