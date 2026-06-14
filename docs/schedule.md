@@ -106,19 +106,21 @@ permalink: /schedule/
       <td>09:00 - 09:30</td>
       <td>Review & Q&A</td>
       <td>Address challenges</td>
-      <td>Lead Instructor</td>
+      <td>Louisse Paola Mirabueno</td>
     </tr>
     <tr>
       <td>09:30 - 10:15</td>
-      <td>Lecture: Batch Ops</td>
-      <td>BioMart principles</td>
-      <td>Ensembl Resource Person</td>
+      <td>Lecture: Introduction to Galaxy</td>
+      <td>
+1:20 PM
+Galaxy is a web-based computational workbench that analyze datasets through accessible, reproducible bioinformatics workflows without requiring command-line expertise.</td>
+      <td>Riza May Pasco</td>
     </tr>
     <tr>
       <td>10:30 - 12:00</td>
-      <td><strong>Hands-on: BioMart</strong></td>
+      <td><strong>Galaxy Deployment on AWS</strong></td>
       <td>Exercise 1-3</td>
-      <td>All + Assistants</td>
+      <td>Lord Hendrix Barboza</td>
     </tr>
     <tr>
       <td>13:00 - 13:45</td>
