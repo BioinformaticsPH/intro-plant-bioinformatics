@@ -12,9 +12,9 @@ The following will be facilitating the Plant Bioinformatics training.
 | :--- | :--- | :--- |
 | **Louisse Paola Mirabueno** | Ensembl Outreach Officer| EMBL-EBI |
 | **Victor Jun Ulat** | Applied Bioinformatics Specialist| CIMMYT |
-| **Ramil Mauleon** | Senior Scientist I - Bioinformatics & Genomics| CIMMYT |
-| **Lord Hendrix Barboza** | Consultant | CIMMYT |
-| **Frances Nikki Borja** | Consultant | CIMMYT |
+| **Ramil Mauleon** | |  |
+| **Lord Hendrix Barboza** |  |  |
+| **Frances Nikki Borja** |  |  |
 | **Jeffrey Detras** | Senior Specialist - Bioinformatics | IRRI |
 | **Riza May Pasco** | Junior Specialist - Bioinformatics | IRRI |
 
