@@ -11,7 +11,7 @@ Ensembl is a comprehensive genome browser and database that provides a central r
 
 For more than 20 years, Ensembl has supported research across the global genomics community. Today, the project provides genome annotation for more than 5,000 eukaryotic and more than 30,000 prokaryotic genomes, making it a valuable platform for researchers at all career stages, from early-career scientists to experienced group leaders.
 
-As genomic data continue to expand rapidly, the new <a href="https://beta.ensembl.org/" target="_blank">Ensembl Data Platform</a> has been developed to provide a more robust, efficient, and user-friendly experience. This module introduces the new platform, which presents genomic features for approximately 5,300 species through a redesigned interface, including visualisation of genes and variants.
+As genomic data continue to expand rapidly, the new <strong><a href="https://beta.ensembl.org/" target="_blank">Ensembl Data Platform</a></strong> has been developed to provide a more robust, efficient, and user-friendly experience. This module introduces the new platform, which presents genomic features for approximately 5,300 species through a redesigned interface, including visualisation of genes and variants.
 
 Participants will explore the range of data available through the new platform, gain practical experience navigating the website to retrieve and interpret information, and consider how these data can support their own research. The module also highlights key improvements in the new platform and how these features can strengthen genomic research and data exploration. In addition, participants will learn how to find support through the Ensembl community, including documentation and help resources.
 
@@ -31,4 +31,4 @@ By the end of the session, participants will be able to:
 * Export genomic sequences via the browser, FTP and REST API
 
 ## Training Materials
-All training materials, including presentation slides and practicals, are available on the <a href="https://training.ensembl.org/events/2026/2026-07-06-SEARCA_Beta" target="_blank">Ensembl Training website</a>. Participants will have access to these training materials indefinitely.
+All training materials, including presentation slides and practicals, are available on the <strong><a href="https://training.ensembl.org/events/2026/2026-07-06-SEARCA_Beta" target="_blank">Ensembl Training website</a></strong>. Participants will have access to these training materials indefinitely.
