@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 1. Ensembl
+title: 1. Ensembl
 parent: Modules
 nav_order: 1
 ---
