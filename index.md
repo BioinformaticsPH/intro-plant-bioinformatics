@@ -31,7 +31,7 @@ The course concludes with an **Integration Workshop** where participants select 
 
 ## Course Modules
 
-1. **Ensembl Plants:** Data mining, genome browsing, and comparative genomics.
+1. **Ensembl Data Platform:** Data mining, genome browsing, and comparative genomics.
 2. **The Galaxy Ecosystem:** Mastering reproducible workflows.
 3. **AI in Bioinformatics:** Prompt engineering for biology and AI-driven data synthesis.
 4. **Capstone Integration:** Final project from trait discovery to gene family analysis.
