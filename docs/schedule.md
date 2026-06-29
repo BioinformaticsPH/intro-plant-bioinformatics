@@ -34,22 +34,22 @@ permalink: /schedule/
       </td>
     </tr>
     <tr>
-      <td>08:30 - 09:00</td>
+      <td>08:30 - 08:45</td>
       <td>Arrival & Tech Help</td>
       <td>-</td>
       <td>Training Team</td>
     </tr>
     <tr>
-      <td>09:00 - 09:15</td>
+      <td>08:45 - 09:15</td>
       <td>Opening Program</td>
       <td>Welcome and Overview</td>
-      <td>SEARCA emcee</td>
+      <td>Organizers</td>
     </tr>
     <tr>
       <td>09:15 - 10:00</td>
       <td>Lecture 1: Bioinformatics Overview</td>
       <td>Biological datasets (generation, management)</td>
-      <td>Ramil Mauleon</td>
+      <td>Victor Jun Ulat</td>
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">10:00 - 10:15</td>
