@@ -9,6 +9,18 @@ permalink: /announcements/
 Stay updated with the latest news, schedule changes, and resource releases.
 
 ---
+
+### <span class="label label-green">New</span> **Reminders**
+*Posted: June 29, 2026*
+
+Hi everyone! Kindly to the following reminders before July 6, 2026. 
+1. Please answer the Pretraining Survey form sent via email.
+2. Create accounts on <a href="https://usegalaxy.eu/" target="_blank">Galaxy Europe</a> and <a href="https://usegalaxy.org.au/" target="_blank">Galaxy Australia</a>.
+3. Create an account on <a href="https://github.com/" target="_blank">Github</a> for access to the <a href="https://bioinformaticsph.github.io/intro-plant-bioinformatics/forum/" target="_blank">Forums</a>.
+
+
+
+---
 <!--
 ### <span class="label label-green">New</span> **Module Released: AI Integration**
 *Posted: Feb 12, 2026*
