@@ -142,8 +142,8 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>15:30 - 16:45</td>
-      <td>Hands-on: Visualization using Galaxy</td>
-      <td>Visualization in Galaxy</td>
+      <td>Hands-on: Galaxy Analyses</td>
+      <td>Doing Various Analyses in Galaxy</td>
       <td>Frances Nikki Borja + Assistants</td>
     </tr>
     <tr>
