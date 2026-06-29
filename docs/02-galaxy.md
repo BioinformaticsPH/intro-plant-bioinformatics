@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 2. Galaxy
+title: Galaxy
 parent: Modules
 nav_order: 2
 ---
