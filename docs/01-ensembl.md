@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. Ensembl
+title: Ensembl
 parent: Modules
 nav_order: 1
 ---
