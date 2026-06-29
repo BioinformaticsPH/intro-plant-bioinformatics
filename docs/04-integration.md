@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Day 4. Integration
+title: Integration
 parent: Modules
 nav_order: 4
 ---
