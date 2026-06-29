@@ -170,20 +170,20 @@ permalink: /schedule/
       <td>Jeffrey Detras</td>
     </tr>
     <tr>
-      <td>09:45 - 10:30</td>
-      <td>Hands-on: Prompt Engineering</td>
-      <td>Prompt Engineering using Gemini</td>
-      <td>Jeffrey Detras + Assistants</td>
+      <td>09:45 - 10:15</td>
+      <td>Lecture: Retrieval-Augmented Generation (RAG)</td>
+      <td>Identifying hallucinations and using RAG to fix it</td>
+      <td>Lord Hendrix Barboza</td>
     </tr>
     <tr>
-      <td style="color: #666; font-style: italic;">10:30 - 10:45</td>
+      <td style="color: #666; font-style: italic;">10:15 - 10:30</td>
       <td colspan="3" style="color: #666; font-style: italic;">Coffee Break</td>
     </tr>
     <tr>
-      <td>10:45 - 11:15</td>
-      <td>Lecture: Retrieval Augmented Generation</td>
-      <td>Identifying hallucinations and using RAG to fix it</td>
-      <td>Lord Hendrix Barboza</td>
+      <td>10:30 - 11:15</td>
+      <td>Hands-on: Prompt Engineering</td>
+      <td>Prompt Engineering using Gemini</td>
+      <td>Jeffrey Detras + Assistants</td>
     </tr>
     <tr>
       <td>11:15 - 12:00</td>
