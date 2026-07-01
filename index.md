@@ -22,7 +22,6 @@ By the end of this training, you will be able to:
 
 * **Navigate Genomic Resources:** Utilize **Ensembl Data Platform** to mine genomic data, identify orthologs, and extract sequences for comparative analysis.
 * **Execute Standardized Workflows:** Master the **Galaxy** platform for reproducible data analysis, enabling complex bioinformatics without requiring advanced programming skills.
-* **Analyze Gene Families:** Perform phylogenetic reconstructions and structural analysis to understand the functional evolution of specific plant gene families.
 * **Integrate AI & LLMs:** Leverage Large Language Models (LLMs) and **RAG (Retrieval-Augmented Generation)** to synthesize biological literature, troubleshoot analysis scripts, and interpret complex results.
 
 ## The "Traits-to-Genes" Integration
