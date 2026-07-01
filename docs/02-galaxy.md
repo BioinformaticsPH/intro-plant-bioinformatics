@@ -23,6 +23,5 @@ The **Galaxy Workbench** is an open-source, web-based platform designed to make 
 ## Key Topics
 * Introduction to Galaxy Workbench
 * Galaxy Deployment on the cloud (Demo)
-* Gene Family Analysis
 * Sequence Characterization
 * Visualization
