@@ -15,7 +15,7 @@ The following will be facilitating the Plant Bioinformatics training.
 | **Ramil Mauleon** | |  |
 | **Lord Hendrix Barboza** |  |  |
 | **Frances Nikki Borja** |  |  |
-| **Jeffrey Detras** | Senior Specialist - Bioinformatics | IRRI |
+| **Jeffrey Detras** | Senior Specialist - Data Science | IRRI |
 | **Riza May Pasco** | Junior Specialist - Bioinformatics | IRRI |
 
 # Host Institution
