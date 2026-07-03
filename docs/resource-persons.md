@@ -14,7 +14,7 @@ The following will be facilitating the Plant Bioinformatics training.
 | **Victor Jun Ulat** | Applied Bioinformatics Specialist| CIMMYT |
 | **Lord Hendrix Barboza** | Bioinformatics Platform Engineer and AI Specialist | CIMMYT |
 | **Frances Nikki Borja** | Bioinformatics and AI Curriculum Coordination Officer | CIMMYT |
-| **Ramil Mauleon** | Senior Scientist - Bioinformatics and Genomics | IRRI |
+| **Ramil Mauleon** | Senior Scientist I - Bioinformatics and Genomics | IRRI |
 | **Jeffrey Detras** | Senior Specialist - Data Science | IRRI |
 | **Riza May Pasco** | Junior Specialist - Bioinformatics | IRRI |
 
