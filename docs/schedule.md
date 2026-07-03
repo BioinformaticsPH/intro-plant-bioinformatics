@@ -23,9 +23,9 @@ permalink: /schedule/
       </td>
     </tr>
     <tr>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">08:00 - 17:00</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">Arrival & Pre-workshop Technical Setup</td>
-      <td style="padding: 10px; border-bottom: 1px solid #eee;">Software verification</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">13:00 - 17:00</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">Arrival & Pre-workshop Technical Setup at Sam-Arng Room, SEARCA</td>
+      <td style="padding: 10px; border-bottom: 1px solid #eee;">Account verification and software check</td>
       <td style="padding: 10px; border-bottom: 1px solid #eee;">Tech Team</td>
     </tr>
     <tr style="background-color: #eaf5ec;">
