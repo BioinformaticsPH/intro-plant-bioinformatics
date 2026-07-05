@@ -31,4 +31,4 @@ By the end of the session, participants will be able to:
 * Export genomic sequences via the browser, FTP and REST API
 
 ## Training Materials
-All training materials, including presentation slides and practicals, are available on the <strong><a href="https://training.ensembl.org/events/2026/2026-07-06-SEARCA_Beta" target="_blank">Ensembl Training website</a></strong>. Participants will have access to these training materials indefinitely.
+All training materials, including presentation slides and practicals, are available on the <strong><a href="https://training.ensembl.org/events/2026/2026-07-07-SEARCA_Beta" target="_blank">Ensembl Training website</a></strong>. Participants will have access to these training materials indefinitely.
