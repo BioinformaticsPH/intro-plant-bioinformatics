@@ -105,13 +105,13 @@ permalink: /schedule/
       </td>
     </tr>
     <tr>
-      <td>09:00 - 09:30</td>
+      <td>08:30 - 09:00</td>
       <td>Review & Q&A</td>
       <td>Address challenges</td>
       <td>Louisse Paola Mirabueno</td>
     </tr>
     <tr>
-      <td>09:30 - 10:15</td>
+      <td>09:00 - 10:30</td>
       <td>Lecture: Introduction to Galaxy</td>
       <td>Galaxy is a web-based computational workbench that analyze datasets through accessible, reproducible bioinformatics workflows without requiring command-line expertise.</td>
       <td>Riza May Pasco</td>
