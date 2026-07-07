@@ -112,7 +112,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>09:00 - 10:30</td>
-      <td>Lecture: Introduction to Galaxy</td>
+      <td>Lecture: Introduction to Galaxy and Hands-on</td>
       <td>Galaxy is a web-based computational workbench that analyze datasets through accessible, reproducible bioinformatics workflows without requiring command-line expertise.</td>
       <td>Riza May Pasco</td>
     </tr>
@@ -122,7 +122,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>10:30 - 12:00</td>
-      <td>Hands-on: Galaxy Basics</td>
+      <td>Exercise: Galaxy Basics</td>
       <td>Exploring and navigating the Galaxy Workbench</td>
       <td>Riza May Pasco</td>
     </tr>
