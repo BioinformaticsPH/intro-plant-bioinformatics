@@ -203,8 +203,8 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>14:30 - 15:45</td>
-      <td>Group Presentations</td>
-      <td>5 min + 2 min Q&A each</td>
+      <td>AI Challenge</td>
+      <td></td>
       <td>All</td>
     </tr>
     <tr>
@@ -213,7 +213,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>16:00 - 16:45</td>
-      <td>AI Challenge</td>
+      <td>Group Presentations</td>
       <td>5 min + 2 min Q&A each</td>
       <td>All</td>
     </tr>
