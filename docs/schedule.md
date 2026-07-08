@@ -197,7 +197,7 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>13:00 - 13:15</td>
-      <td>AI clients vs genomic databases</td>
+      <td>Lecture: AI clients vs genomic databases</td>
       <td>The impact of AI clients on genomic resources</td>
       <td>Louisse Paola Mirabueno</td>
     </tr>
