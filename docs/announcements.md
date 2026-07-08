@@ -11,11 +11,16 @@ Stay updated with the latest news, schedule changes, and resource releases.
 ---
 
 ### <span class="label label-green">New</span> **Reminder**
+*Posted: July 8, 2026*
+
+Hi everyone! For tomorrow's and Friday's session, the venue will be at the SEARCA Auditorium. 
+
+### <span class="label label-green">Previous</span> **Reminder**
 *Posted: July 7, 2026*
 
 Hi everyone! To prepare for tomorrow's session, please download the files from our shared Google Drive folder labeled <a href="https://drive.google.com/drive/folders/1YvK5GDeuz8UZTG6g9KUPAcwq-dua5P5y?usp=drive_link" target="_blank">Day 2</a>. 
    
-### <span class="label label-green">New</span> **Reminders**
+### <span class="label label-green">Previous</span> **Reminders**
 *Posted: June 29, 2026*
 
 Hi everyone! Kindly do to the following reminders before July 6, 2026. 
