@@ -196,7 +196,13 @@ permalink: /schedule/
       <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
     </tr>
     <tr>
-      <td>13:00 - 14:30</td>
+      <td>13:00 - 13:15</td>
+      <td>AI clients vs genomic databases</td>
+      <td>The impact of AI clients on genomic resources</td>
+      <td>Louisse Paola Mirabueno</td>
+    </tr>
+    <tr>
+      <td>13:15 - 14:30</td>
       <td>Hands-on: AI for Galaxy</td>
       <td>Use AI as reference or interpretation of Data; troubleshoot; LLM hub in galaxy</td>
       <td>Riza May Pasco + Assistants</td>
