@@ -244,7 +244,7 @@ permalink: /schedule/
       <td>09:00 - 09:45</td>
       <td>Lecture: Full Pipeline</td>
       <td>Review workflow</td>
-      <td>Lead Instructor</td>
+      <td>Frances Nikki Borja</td>
     </tr>
     <tr>
       <td>09:45 - 10:30</td>
