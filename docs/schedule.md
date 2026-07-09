@@ -236,21 +236,15 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>08:30 - 09:00</td>
-      <td>Project Team Formation</td>
+      <td>Integration project</td>
       <td>Group projects</td>
       <td>Frances Nikki Borja</td>
     </tr>
     <tr>
-      <td>09:00 - 09:45</td>
-      <td>Lecture: Full Pipeline</td>
-      <td>Review workflow</td>
-      <td>Frances Nikki Borja</td>
-    </tr>
-    <tr>
-      <td>09:45 - 10:30</td>
-      <td>Project Phases 1</td>
-      <td>Ensembl Discovery</td>
-      <td>Groups + Resource Persons</td>
+      <td>09:00 - 10:30</td>
+      <td>Group work</td>
+      <td></td>
+      <td>Groups</td>
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">10:30 - 10:45</td>
@@ -258,22 +252,22 @@ permalink: /schedule/
     </tr>
     <tr>
       <td>10:45 - 12:00</td>
-      <td>Project Phases 2</td>
-      <td>Galaxy</td>
-      <td>Groups + Resource Persons</td>
+      <td>Group work</td>
+      <td></td>
+      <td>Groups</td>
     </tr>
     <tr>
       <td style="color: #666; font-style: italic;">12:00 - 13:00</td>
       <td colspan="3" style="color: #666; font-style: italic;">Lunch Break</td>
     </tr>
     <tr>
-      <td>13:00 - 14:30</td>
-      <td>Project Phases 3</td>
-      <td>AI</td>
-      <td>Groups + Resource Persons</td>
+      <td>13:00 - 14:00</td>
+      <td>Finalization of Group work</td>
+      <td></td>
+      <td>Groups</td>
     </tr>
     <tr>
-      <td>14:30 - 15:15</td>
+      <td>14:00 - 15:15</td>
       <td>Final Presentations</td>
       <td>5 min + 3 min Q&A</td>
       <td>All</td>
