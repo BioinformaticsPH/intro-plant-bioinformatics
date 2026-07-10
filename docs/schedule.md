@@ -269,7 +269,7 @@ permalink: /schedule/
     <tr>
       <td>14:00 - 15:15</td>
       <td>Final Presentations</td>
-      <td>5 min + 3 min Q&A</td>
+      <td>5-7 min + 2 min Q&A + 1min setup</td>
       <td>All</td>
     </tr>
     <tr>
